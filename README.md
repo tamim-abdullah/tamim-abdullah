@@ -1,23 +1,8 @@
 
 **About Me**
 - 🌟 **Username**: Tamim Abdullah
-- 🖥️ **OS**: Windows
-- 💻 **Editor**: VS Code | Kaggle | Colab
+- 🖥️ **OS**: Windows + Linux
+- 💻 **Editor**: VS Code
 - 📊 **Languages**: Python | C++ | JavaScript
-- 🔭 **Focus**: ML, NLP, CV
-- 🛠️ **Tools**: Streamlit, Hugging Face...
-
-**Projects**
-- 🔬 Bioinformatics PCA Analysis
-- 🌿 Bangladeshi Spice Detection
-- 🤖 Chatbot with Hugging Face & Streamlit
-- 📈 Life Tracker Dashboard
-
-**Stats**
-- 🚀 **Commits**: {...}
-- ⭐ **Repositories**: {...}
-- 📁 **Followers**: {...}
-
-**Find Me**
-- 💬 [LinkedIn](#)
-- ✉️ [Email](#)
+- 🔭 **Focus**: ML, NLP, CV, DevOps
+- 🛠️ **Technologies**: AWS console | Docker | Kubernetes | Github Actions 
