@@ -1,6 +1,6 @@
 
 **About Me**
-- 🌟 **Username**: Tamim Abdullah
+I love working with data to visualize and solve real world problems without using words. A Research Enthusiast primarily focusing on ML and DevOps.   
 - 🖥️ **OS**: Windows + Linux
 - 💻 **Editor**: VS Code
 - 📊 **Languages**: Python | C++ | JavaScript
